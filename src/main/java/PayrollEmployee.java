@@ -1,4 +1,4 @@
-public class PayrollEmployeeID {
+public class PayrollEmployee {
 
     private String firstName, lastName;
     private double ratePerHour;
@@ -6,22 +6,19 @@ public class PayrollEmployeeID {
     private double payCheckTotal;
 
 
-    public PayrollEmployeeID(String firstName, String lastName, double ratePerHour, int employeeId, double payCheckTotal) {
+    public PayrollEmployee(String firstName, String lastName, double ratePerHour, int employeeId, double payCheckTotal) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.ratePerHour = ratePerHour;
         this.employeeId = employeeId;
         this.payCheckTotal = payCheckTotal;
 
-        if {
+        }
+    public void
+
     }
-
-
-
-
-
-}
 
     public void setPayCheckTotal(double payCheckTotal) {
         this.payCheckTotal = payCheckTotal;
     }
+}

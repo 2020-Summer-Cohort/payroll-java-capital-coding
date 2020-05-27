@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+public class PayrollSales extends PayrollEmployee {
 
-public class PayrollSales {
+
 }
